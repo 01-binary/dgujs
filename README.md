@@ -4,8 +4,18 @@
 
 ### Available Things
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=JavaScript&logoColor=323330"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazonaws&logoColor=white"/>
 </p>
