@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&desc=I'm%20interested%20in%20various%20fields.%20I'm%20Lee%20Jinsoo,%20a%20developer%20who%20continues%20to%20develop%20on%20his%20own!&fontSize=65&fontAlignY=40&descSize=22rotate=-30&animation=fadeIn)
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dgujs&hide=stars&show_icons=true&count_private=true&line_height=24" style="width: 70%">
+    <img src="https://github-readme-stats.vercel.app/api?username=dgujs&hide=stars&show_icons=true&count_private=true&line_height=30" style="width: 54%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgujs&layout=compact&langs_count=6">
 </p>
 
